@@ -308,7 +308,7 @@ try {
     <div class="container">
         <!-- HEADER -->
         <header>
-            <div class="tag">📨 Último Mensaje</div>
+            <div class="tag">📨 Último Mensaje enviado</div>
             <h1>Mensaje en Vivo</h1>
             <p class="subtitle">Actualiza cada 5 segundos</p>
         </header>
