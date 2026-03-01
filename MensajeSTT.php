@@ -1,7 +1,7 @@
 <?php
 // filepath: /Applications/MAMP/htdocs/tt/MensajeSTT.php
 header('Content-Type: text/html; charset=utf-8');
-require_once 'inc/config.php';
+require_once '/../inc/config.php';
 
 try {
     $conn = conect();
@@ -308,7 +308,7 @@ try {
     <div class="container">
         <!-- HEADER -->
         <header>
-            <div class="tag">📨 Último Mensaje enviado</div>
+            <div class="tag">📨 Último Mensaje Enviado</div>
             <h1>Mensaje en Vivo</h1>
             <p class="subtitle">Actualiza cada 5 segundos</p>
         </header>
