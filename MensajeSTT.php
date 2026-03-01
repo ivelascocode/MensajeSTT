@@ -1,7 +1,7 @@
 <?php
 // filepath: /Applications/MAMP/htdocs/tt/MensajeSTT.php
 header('Content-Type: text/html; charset=utf-8');
-require_once '/../inc/config.php';
+require_once '/inc/config.php';
 
 try {
     $conn = conect();
